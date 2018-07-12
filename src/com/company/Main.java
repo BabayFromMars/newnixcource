@@ -16,6 +16,7 @@ public class Main {
         Scanner scan = new Scanner(System.in);
         return name = scan.nextLine();
         //System.out.println("Hello, " + name + "!");
+        //Тони, сделай что-нибудь!
 
     }
     }
